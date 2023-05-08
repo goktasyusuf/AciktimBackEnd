@@ -1,2 +1,2 @@
 # AciktimBackEnd
-.Net ile geliştirilen Acıktım uygulamasının back-end kodları
+.Net ve MongoDB ile geliştirilen Acıktım uygulamasının back-end kodları
